@@ -27,6 +27,6 @@ BonusesView:
     textStyle: XSMALL_DARK()
 
   icon:
-    src: 'prewager',
+    src: prewager
     style:
       fill: COLORS.GREEN_LIGHT
