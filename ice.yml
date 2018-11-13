@@ -1,0 +1,32 @@
+BonusesView:
+  itemName:
+    textStyle: MEDIUM_DEEP().bold()
+
+  itemStatusActive:
+    textStyle: XSMALL_SUCCESS().bold()
+
+  itemStatusCancelled:
+    textStyle: XSMALL_HIGHLIGHT().bold()
+
+  itemStatusExpired:
+    textStyle: XSMALL_ALERT().bold()
+
+  itemStatusComplete:
+    textStyle: XSMALL_SUCCESS().bold()
+
+  itemStatusUnknown:
+    textStyle: XSMALL_DEEP().bold()
+
+  itemType:
+    textStyle: SMALL_DEEP()
+
+  itemAmount:
+    textStyle: SMALL_DEEP()
+
+  itemExpire:
+    textStyle: XSMALL_DARK()
+
+  icon:
+    src: 'prewager',
+    style:
+      fill: COLORS.GREEN_LIGHT
