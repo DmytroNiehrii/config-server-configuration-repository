@@ -1,3 +1,5 @@
 references:
-    value1: &reference "Don't repeat yourself!"  
+    value1: &reference 
+      a: "Don't repeat yourself!"  
+      b: "But you can if you want"  
     value2: *reference 
