@@ -1,3 +1,4 @@
 aaa:
   bbb: 123
-securedKey: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ - {aaa.bbb}'
+securedKey: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
+var1: {aaa.bbb}
