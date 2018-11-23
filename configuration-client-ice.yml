@@ -1,5 +1,5 @@
 NewProperty:
-  key1: value1_updated
+  key1: value1_updated2
 BonusesView:
   itemName:
     textStyle: MEDIUM_DEEP().bold()
