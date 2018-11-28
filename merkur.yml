@@ -1,4 +1,4 @@
 CommonProperties:
-  key1: value1+++
+  key1: value1---
   key2: value2
 password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
