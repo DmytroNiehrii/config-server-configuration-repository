@@ -1,2 +1,2 @@
 server:
-  port: 1122
+  port: ${PORT:0}
