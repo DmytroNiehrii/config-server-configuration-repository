@@ -1,2 +1,3 @@
 server:
   port: ${PORT:0}
+greeting-name: John
