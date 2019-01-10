@@ -3,5 +3,8 @@ server:
  # port: ${PORT:0}
 greeting-name: Bill-03
 
+config:
+  greeting-name: John-01
+
 configuration:
 projectName: Name-01
